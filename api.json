@@ -1,0 +1,414 @@
+{
+  "category": "LOCATION",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/area-51",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "area-51",
+    "name": "Area 51",
+    "aliases": [
+      {
+        "name": "Groom Lake",
+        "type": "official",
+        "meaning": "Official military designation"
+      },
+      {
+        "name": "Dreamland",
+        "type": "informal",
+        "meaning": "Nickname used by personnel"
+      },
+      {
+        "name": "Paradise Ranch",
+        "type": "historical",
+        "meaning": "CIA recruitment name (1950s)"
+      },
+      {
+        "name": "Homey Airport",
+        "type": "informal"
+      }
+    ],
+    "category": "LOCATION",
+    "subcategory": "Military Installation / UFO Conspiracy",
+    "tags": [
+      "military-base",
+      "classified",
+      "ufo",
+      "conspiracy",
+      "nevada",
+      "government-secrecy",
+      "extraterrestrial"
+    ],
+    "status": "active",
+    "description": {
+      "summary": "A highly classified United States Air Force facility in Nevada, center of UFO conspiracy theories, officially confirmed to exist in 2013. Known for testing classified aircraft and alleged alien technology.",
+      "full": "Area 51 is a highly classified remote detachment of Edwards Air Force Base located in the Nevada Test and Training Range, approximately 83 miles north-northwest of Las Vegas. Officially known as Groom Lake, the facility has been the center of UFO conspiracy theories since the 1950s. The U.S. government did not officially acknowledge its existence until 2013 when the CIA released declassified documents confirming the base was used for testing the U-2 spy plane and other classified aircraft including the SR-71 Blackbird and stealth technology. Conspiracy theories allege the facility stores alien spacecraft, reverse-engineers extraterrestrial technology, and houses alien bodies recovered from Roswell. Notable claims include Bob Lazar's 1989 testimony about working on alien propulsion systems. The 2019 'Storm Area 51' viral event brought renewed attention. While the base's existence and role in aircraft testing is confirmed, UFO and alien-related claims remain unverified."
+    },
+    "etymology": {
+      "origin": "Named 'Area 51' from its designation on Atomic Energy Commission maps dividing the Nevada Test Site into numbered areas.",
+      "meaning": "Numbered area designation from AEC grid system",
+      "first_use": "1950s (official designation)"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "LOCATION",
+      "type": "Military Installation",
+      "subtype": "Classified Testing Facility",
+      "variant": "UFO Conspiracy Nexus"
+    },
+    "related_phenomena": [
+      {
+        "id": "roswell",
+        "name": "Roswell Incident",
+        "relationship": "connected",
+        "description": "Alleged source of alien craft/bodies claimed to be at Area 51"
+      },
+      {
+        "id": "greys",
+        "name": "Grey Aliens",
+        "relationship": "associated",
+        "description": "Alleged extraterrestrial beings claimed to be at facility"
+      },
+      {
+        "id": "ufos",
+        "name": "UFOs/UAPs",
+        "relationship": "central",
+        "description": "Core of Area 51 conspiracy theories"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "geographic": {
+      "location": {
+        "description": "Remote Nevada desert, Nevada Test and Training Range",
+        "country": "United States",
+        "state": "Nevada",
+        "coordinates": {
+          "latitude": 37.2431,
+          "longitude": -115.7930,
+          "precision": "approximate"
+        }
+      },
+      "features": [
+        {
+          "feature": "Groom Lake",
+          "description": "Dry lakebed used as runway, one of the world's longest (12,000 feet)",
+          "significance": "Primary aircraft testing facility"
+        },
+        {
+          "feature": "Restricted airspace",
+          "description": "R-4808N airspace, protected by military",
+          "significance": "Most restricted airspace in the US"
+        },
+        {
+          "feature": "Security perimeter",
+          "description": "Armed guards, sensors, warnings, deadly force authorized",
+          "significance": "Extreme security measures"
+        }
+      ]
+    },
+    "official_status": {
+      "confirmed": true,
+      "acknowledged_date": "2013",
+      "purpose": "Testing and development of classified aircraft and weapons systems",
+      "classification_level": "Top Secret"
+    },
+    "conspiracy_claims": [
+      {
+        "claim": "Alien spacecraft storage",
+        "origin": "Bob Lazar testimony (1989), Roswell connections",
+        "evidence_status": "unverified",
+        "credibility": "low"
+      },
+      {
+        "claim": "Reverse engineering alien technology",
+        "origin": "Bob Lazar testimony (1989)",
+        "evidence_status": "unverified",
+        "credibility": "low"
+      },
+      {
+        "claim": "Alien bodies storage",
+        "origin": "Roswell conspiracy theories",
+        "evidence_status": "unverified",
+        "credibility": "low"
+      },
+      {
+        "claim": "Alien-human collaboration",
+        "origin": "Fringe conspiracy theories",
+        "evidence_status": "no evidence",
+        "credibility": "very low"
+      },
+      {
+        "claim": "Classified aircraft testing",
+        "origin": "Declassified CIA documents (2013)",
+        "evidence_status": "confirmed",
+        "credibility": "high"
+      }
+    ]
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Single location in southern Nevada, USA",
+      "continents": ["North America"],
+      "countries": ["United States"],
+      "regions": ["Nevada", "Nevada Test and Training Range"]
+    },
+    "temporal": {
+      "established": {
+        "date": "1955",
+        "context": "CIA selected site for U-2 spy plane testing",
+        "source": "Declassified CIA documents"
+      },
+      "conspiracy_emergence": {
+        "date": "1950s-1960s",
+        "context": "UFO sightings of classified aircraft testing",
+        "notes": "Secrecy around U-2 and SR-71 testing led to UFO reports"
+      },
+      "public_awareness": [
+        {
+          "period": "1989",
+          "event": "Bob Lazar testimony",
+          "impact": "Mainstream UFO conspiracy theories"
+        },
+        {
+          "period": "2013",
+          "event": "CIA acknowledgment",
+          "impact": "Official confirmation of facility existence"
+        },
+        {
+          "period": "2019",
+          "event": "Storm Area 51",
+          "impact": "Viral social media event, pop culture phenomenon"
+        }
+      ]
+    }
+  },
+
+  "history": {
+    "origins": {
+      "establishment": "In 1955, the CIA selected Groom Lake as a testing site for the U-2 spy plane due to its remoteness and proximity to the Nevada Test Site.",
+      "early_purpose": "Development and testing of reconnaissance aircraft during the Cold War"
+    },
+    "timeline": [
+      {
+        "date": "1955",
+        "event": "Area 51 established",
+        "significance": "CIA selects Groom Lake for U-2 testing",
+        "source": "Declassified CIA documents"
+      },
+      {
+        "date": "1955-1960s",
+        "event": "U-2 spy plane testing",
+        "significance": "High-altitude reconnaissance aircraft development; UFO sightings by civilians",
+        "source": "CIA documents"
+      },
+      {
+        "date": "1960s-1970s",
+        "event": "SR-71 Blackbird testing",
+        "significance": "Advanced reconnaissance aircraft development",
+        "source": "Declassified records"
+      },
+      {
+        "date": "1970s-1980s",
+        "event": "Stealth aircraft development",
+        "significance": "F-117 Nighthawk and other stealth technology testing",
+        "source": "Military records"
+      },
+      {
+        "date": "1989",
+        "event": "Bob Lazar goes public",
+        "significance": "Claims to have worked on alien spacecraft propulsion systems; mainstream UFO conspiracy begins",
+        "source": "Television interviews"
+      },
+      {
+        "date": "2013",
+        "event": "CIA acknowledges Area 51",
+        "significance": "Declassified documents confirm facility existence and U-2 testing",
+        "source": "CIA Freedom of Information Act release"
+      },
+      {
+        "date": "2019-07-20",
+        "event": "Storm Area 51 event",
+        "significance": "Facebook event goes viral (2 million interested), actual gathering much smaller",
+        "source": "News reports"
+      }
+    ],
+    "confirmed_projects": [
+      {
+        "name": "U-2 Dragon Lady",
+        "period": "1955-1960s",
+        "description": "High-altitude reconnaissance aircraft",
+        "status": "Declassified"
+      },
+      {
+        "name": "SR-71 Blackbird",
+        "period": "1960s-1990s",
+        "description": "Advanced long-range reconnaissance aircraft",
+        "status": "Declassified"
+      },
+      {
+        "name": "F-117 Nighthawk",
+        "period": "1970s-2008",
+        "description": "Stealth attack aircraft",
+        "status": "Declassified"
+      },
+      {
+        "name": "HAVE BLUE",
+        "period": "1970s",
+        "description": "Stealth technology demonstrator",
+        "status": "Declassified"
+      }
+    ]
+  },
+
+  "notable_claims": [
+    {
+      "name": "Bob Lazar testimony",
+      "date": "1989",
+      "claimant": "Bob Lazar",
+      "claim": "Worked at S-4 facility near Area 51 on reverse-engineering alien spacecraft propulsion systems using 'Element 115'",
+      "credibility": {
+        "rating": "disputed",
+        "factors": [
+          "No verification of educational credentials",
+          "No employment records found",
+          "Some technical claims inconsistent with physics",
+          "Some details later verified (Element 115 synthesized in 2003)"
+        ],
+        "notes": "Highly controversial; skeptics consider it fabrication, some believers find aspects credible"
+      }
+    },
+    {
+      "name": "Storm Area 51",
+      "date": "2019-07-20",
+      "description": "Viral Facebook event 'Storm Area 51, They Can't Stop All of Us' attracting 2 million 'interested' responses",
+      "outcome": "Event transformed into Alienstock festival; small actual attendance near base; no storming occurred",
+      "significance": "Pop culture phenomenon demonstrating Area 51's cultural impact"
+    }
+  ],
+
+  "theories": {
+    "conspiracy": [
+      {
+        "name": "Alien spacecraft storage",
+        "description": "Area 51 houses crashed alien spacecraft, including from Roswell",
+        "proponents": ["UFO conspiracy theorists"],
+        "evidence_cited": ["Bob Lazar testimony", "Roswell incident", "government secrecy"],
+        "credibility": "unverified"
+      },
+      {
+        "name": "Reverse engineering program",
+        "description": "U.S. military reverse-engineers alien technology",
+        "proponents": ["Bob Lazar", "UFO researchers"],
+        "evidence_cited": ["Alleged rapid technological advancement", "Lazar testimony"],
+        "credibility": "unverified"
+      }
+    ],
+    "confirmed": [
+      {
+        "name": "Classified aircraft testing",
+        "description": "Area 51 is used for development and testing of classified military aircraft",
+        "proponents": ["U.S. Government", "CIA"],
+        "evidence_cited": ["Declassified documents", "CIA acknowledgment (2013)", "Known aircraft projects"],
+        "credibility": "confirmed"
+      },
+      {
+        "name": "UFO sightings explain",
+        "description": "Many UFO sightings in the area were actually sightings of classified aircraft like the U-2",
+        "proponents": ["CIA", "skeptics"],
+        "evidence_cited": ["Declassified reports matching UFO sightings to test flights"],
+        "credibility": "confirmed"
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Misidentification and secrecy",
+        "description": "All Area 51 UFO claims result from classified aircraft misidentification and government secrecy",
+        "proponents": ["Skeptics", "mainstream scientists"],
+        "evidence_cited": ["No credible evidence of aliens", "History of misidentifying classified aircraft"],
+        "credibility": "high"
+      }
+    ]
+  },
+
+  "cultural": {
+    "popular_culture": {
+      "film_tv": [
+        "Independence Day (1996) - features Area 51 as alien research facility",
+        "The X-Files (TV series) - numerous references",
+        "Indiana Jones and the Kingdom of the Crystal Skull (2008)",
+        "Paul (2011) - comedy about alien escape from Area 51"
+      ],
+      "games": [
+        "Numerous video games featuring Area 51",
+        "Area 51 (1995 arcade game)"
+      ],
+      "other": [
+        "Area 51 themed merchandise",
+        "Alien-themed tourism in Rachel, Nevada (nearest town)",
+        "Little A'Le'Inn restaurant and motel",
+        "Extraterrestrial Highway (Nevada State Route 375)"
+      ]
+    },
+    "impact": "Area 51 has become an icon of government secrecy and UFO conspiracy theories, deeply embedded in popular culture worldwide."
+  },
+
+  "research": {
+    "government_position": {
+      "official_stance": "Area 51 is a classified military facility for testing and development of aircraft and weapons systems. No evidence supports alien-related claims.",
+      "acknowledged": "2013 (CIA declassification)"
+    },
+    "investigations": [
+      {
+        "type": "Journalistic",
+        "description": "Numerous journalists have investigated Area 51 claims",
+        "findings": "Confirmed aircraft testing, no evidence of alien connection"
+      },
+      {
+        "type": "Skeptical research",
+        "description": "Debunking of Bob Lazar and other claims",
+        "findings": "Inconsistencies and lack of evidence in conspiracy theories"
+      }
+    ]
+  },
+
+  "sources": [
+    {
+      "id": "cia-2013",
+      "type": "government document",
+      "title": "CIA's Role in the Study of UFOs, 1947-90",
+      "authors": ["Central Intelligence Agency"],
+      "publication": "CIA Historical Review Program",
+      "date": "2013",
+      "url": "https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/vol-1-no-1/area-51.html"
+    },
+    {
+      "id": "jacobsen-2011",
+      "type": "book",
+      "title": "Area 51: An Uncensored History of America's Top Secret Military Base",
+      "authors": ["Annie Jacobsen"],
+      "publication": "Little, Brown and Company",
+      "date": "2011",
+      "isbn": "978-0316132947"
+    }
+  ]
+}
