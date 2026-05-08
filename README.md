@@ -1,300 +1,228 @@
 # Area 51
 
-> *"The truth is out there... in Nevada."*
+> Highly classified United States Air Force facility in southern Nevada (officially Homey Airport / Groom Lake), used since 1955 for the development and testing of experimental aircraft. The site is the most prominent location in modern UFO and government-cover-up folklore.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
-[![Classification](https://img.shields.io/badge/classification-TOP%20SECRET-red)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-active-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `area-51` |
-| **Category** | LOCATION / UFO_UAP |
-| **Classification** | Military Installation / UFO Conspiracy |
-| **Established** | 1955 |
-| **Location** | Nevada, USA |
-| **Official Status** | Confirmed (2013) |
-| **Status** | Active classified facility |
+| **Category** | LOCATION |
+| **Subcategory** | Classified United States Air Force testing facility |
+| **First recorded** | 1955-04-01 |
+| **Primary range** | A single fixed installation in southern Nevada, surrounded by the Nevada Test and Training Range and the Nellis Air Force complex |
+| **Status** | active |
 
 ---
-
 ## Overview
 
-Area 51 is a highly classified remote detachment of Edwards Air Force Base, located within the Nevada Test and Training Range approximately 83 miles north-northwest of Las Vegas. Officially known as Groom Lake, the facility has been at the center of UFO conspiracy theories since the 1950s.
-
-The U.S. government did not officially acknowledge Area 51's existence until 2013, when the CIA released declassified documents confirming the base was used for testing the U-2 spy plane, SR-71 Blackbird, F-117 Nighthawk stealth fighter, and other classified aircraft. The extreme secrecy surrounding these programs, combined with high-altitude test flights that civilians misidentified as UFOs, fueled decades of speculation.
-
-**Conspiracy theories allege** the facility stores alien spacecraft (allegedly from Roswell), reverse-engineers extraterrestrial technology, houses alien bodies, and facilitates alien-human collaboration. Notable claims include Bob Lazar's 1989 testimony about working on alien propulsion systems. The 2019 viral "Storm Area 51" event brought renewed pop culture attention.
-
-**Reality**: The base's existence and role in classified aircraft testing is confirmed. UFO and alien-related claims remain entirely unverified with no credible evidence.
+Area 51 is a highly classified United States Air Force facility within the Nevada Test and Training Range, approximately 83 mi (134 km) north-northwest of Las Vegas. The base — formally Homey Airport (ICAO: KXTA), surrounding the dry Groom Lake bed — has been used since 1955 for the flight-testing of experimental aircraft and weapons, beginning with the Lockheed U-2 and continuing through the A-12 OXCART, the SR-71 Blackbird, the F-117 Nighthawk stealth fighter, and the Tacit Blue and Have Blue stealth demonstrators. Foreign aircraft (especially captured Soviet MiGs) have also been evaluated there. The facility's existence was deliberately denied or refused for comment by the U.S. government for decades, and its restricted airspace, deadly-force-authorised perimeter, and secrecy have made it the central setting of UFO and government-cover-up theories: that the U.S. military stores and reverse-engineers crashed extraterrestrial spacecraft, that alien biologics are studied at an underground 'S-4' adjacent to Papoose Lake, and that whistle-blowers such as Bob Lazar have witnessed alien technology there. The CIA officially acknowledged the base in declassified documents released in June 2013.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Homey Airport |  | Official ICAO designation (KXTA) |
+| Groom Lake |  | Name of the dry lake bed adjacent to the facility |
+| Paradise Ranch |  | Cover name used in the early CIA U-2 program |
+| The Ranch |  | Internal CIA shorthand |
+| Watertown Strip |  | Early USAF designation, after CIA director Allen Dulles's birthplace |
+| Dreamland | United States | Air-traffic-control restricted-airspace nickname |
 
-### Primary Name
-- **Area 51** — Named from its designation on Atomic Energy Commission maps that divided the Nevada Test Site into numbered areas. First used in the 1950s.
+## Etymology
 
-### Alternative Names
-
-| Name | Type | Meaning/Context |
-|------|------|-----------------|
-| Groom Lake | Official | Official military designation after the dry lakebed |
-| Dreamland | Informal | Nickname used by personnel |
-| Paradise Ranch | Historical | CIA recruitment name (1950s) — ironic given harsh desert location |
-| Homey Airport | Informal | Occasional designation |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: LOCATION
-├── Type: Military Installation
-├── Subtype: Classified Testing Facility
-└── Variant: UFO Conspiracy Nexus
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| Roswell Incident | Connected | Alleged source of alien craft/bodies claimed to be at Area 51 |
-| [Grey Aliens](/greys) | Associated | Alleged extraterrestrial beings at facility |
-| UFOs/UAPs | Central | Core of Area 51 conspiracy theories |
+- **Origin**: The name 'Area 51' comes from the Atomic Energy Commission's grid designation for the area within the Nevada Test Site. It was paired in the 1950s with the cover name 'Paradise Ranch' to attract workers.
+- **Meaning**: AEC numbered grid square containing the Groom Lake facility.
+- **First use**: 1955 (CIA selection of Groom Lake for U-2 testing).
 
 ---
+## Related Phenomena
 
-## Geographic Details
-
-### Location
-
-**Coordinates**: 37.2431°N, 115.7930°W (approximate)
-**Country**: United States
-**State**: Nevada
-**Area**: Nevada Test and Training Range
-
-### Key Features
-
-| Feature | Description | Significance |
-|---------|-------------|--------------|
-| **Groom Lake** | Dry lakebed runway, 12,000+ feet (one of world's longest) | Primary aircraft testing facility |
-| **Restricted airspace** | R-4808N airspace | Most restricted airspace in the US |
-| **Security perimeter** | Armed guards, sensors, "Use of Deadly Force Authorized" signs | Extreme security measures |
-| **Remote location** | Desert isolation, nearest town Rachel (25+ miles) | Secrecy and security |
+- [Roswell Incident](../roswell-incident/) — _related_: 1947 UFO crash in New Mexico tied by conspiracy theories to alleged Area 51 storage of recovered material
+- [Majestic 12](../majestic-12/) — _related_: Alleged secret committee said to oversee crashed-disk recovery and Area 51 research
+- [Bob Lazar / S-4 claims](../bob-lazar/) — _subset_: Lazar's 1989 claims of working on alien craft at S-4, Papoose Lake
+- [UFO / UAP phenomenon](../ufo-uap/) — _related_: Area 51 is a primary node of UFO conspiracy lore
+- [Dulce Base](../dulce-base/) — _similar_: Other alleged classified underground facility in modern UFO lore
 
 ---
+## Physical Description
 
+- **Morphology**: Approximately 38 km² of developed flight-test base on the southern shore of Groom Lake, embedded in the much larger Nevada Test and Training Range and the Nevada National Security Site (formerly Nevada Test Site).
+
+### Features
+
+| Feature | Description | Frequency |
+|---|---|---|
+| Long paved runway | Approximately 12,000 ft (3,660 m) main runway with adjoining lakebed runways on Groom Lake | always |
+| Restricted airspace | FAA airspace R-4808N ('Dreamland'), one of the most strictly enforced restricted areas in the United States | always |
+| Armed perimeter | Marked by orange posts and signage authorising the use of deadly force; Wackenhut/EG&G security ('Camo Dudes') | always |
+| Hangars and support buildings | Numerous large hangars (some seen in commercial satellite imagery from the 1990s onward) | always |
+
+## Behavior
+
+- **Activity**: variable
+- **Disposition**: neutral
+- **Social structure**: solitary
+- **Habitat**: high desert, dry lake beds
+- **Diet**: Not applicable
+
+---
+## Distribution
+
+A single fixed installation in southern Nevada, surrounded by the Nevada Test and Training Range and the Nellis Air Force complex. The area is commonly viewed from public vantage points along Nevada State Route 375, the 'Extraterrestrial Highway', and from the small town of Rachel.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Groom Lake (main facility) | Nevada, United States |  | 1955–present |
+| Papoose Lake (alleged 'S-4') | Nevada, United States |  | 1989–present (in conspiracy lore) |
+| Rachel, Nevada / Extraterrestrial Highway | Nevada, United States |  | 1989–present |
+
+---
 ## Historical Timeline
 
-### Establishment & Early Years
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| **1955** | Area 51 established | CIA selects Groom Lake for U-2 spy plane testing |
-| **1955-1960s** | U-2 testing | High-altitude reconnaissance; civilian UFO sightings begin |
-| **1960s-1970s** | SR-71 Blackbird | Advanced reconnaissance aircraft development |
-| **1970s-1980s** | Stealth development | F-117 Nighthawk and HAVE BLUE stealth technology |
+|---|---|---|
+| 1955-04-01 | CIA selects Groom Lake as a covert test site for the Lockheed U-2 | Founding of the modern Area 51 facility |
+| 1955-08-04 | First U-2 test flight at Groom Lake | Operational beginning of the base |
+| 1962-04-26 | First flight of the Lockheed A-12 OXCART at Groom Lake | Main 1960s programme at the base |
+| 1977-12-01 | First flight of the Have Blue stealth demonstrator at Groom Lake | Beginning of stealth-aircraft testing |
+| 1981-06-18 | First flight of the F-117 Nighthawk full-scale development prototype | Development of the world's first operational stealth fighter |
+| 1989-05-01 | Bob Lazar gives KLAS-TV interviews (under pseudonym 'Dennis') alleging work on alien craft at 'S-4' near Papoose Lake | Launches Area 51 into modern UFO-conspiracy folklore |
+| 1996-04-19 | State of Nevada renames NV-375 the 'Extraterrestrial Highway' | Formal recognition of Area 51 UFO tourism |
+| 2013-06-25 | CIA releases declassified U-2 and OXCART history acknowledging Area 51 by name and grid coordinates | First official U.S. government acknowledgement of Area 51 as an active facility |
+| 2019-09-20 | 'Storm Area 51' Facebook event culminates in small festivals at Rachel and Hiko, NV | Internet-era cultural moment for the Area 51 mythos |
 
-### Conspiracy Era
+---
+## Notable Sightings
 
-| Date | Event | Significance |
-|------|-------|--------------|
-| **1989** | Bob Lazar goes public | Claims alien spacecraft work; mainstream UFO conspiracy emerges |
-| **2013** | CIA acknowledgment | Declassified docs confirm facility existence, U-2/SR-71 testing |
-| **2019-07-20** | Storm Area 51 | Viral Facebook event; 2M interested; small actual turnout |
+### Bob Lazar KLAS-TV interview ⭐
+> **Date**: 1989-11-13  
+> **Location**: KLAS-TV Las Vegas studio (interviews referring to alleged work near Papoose Lake / S-4)  
+> **Witnesses**: 1 (Bob Lazar (self-identified contractor))  
+Lazar told Las Vegas reporter George Knapp that he had worked at a facility designated 'S-4' near Papoose Lake on the back-engineering of nine alien craft. He described a gravity-wave propulsion system fuelled by 'Element 115'. The interview is the foundational moment of modern Area 51 UFO lore.
+**Credibility**: low — Pivotal cultural event regardless of evidentiary status.
+**Sources**: KLAS-TV Las Vegas (1989); Knapp, G., subsequent reporting
 
 ---
 
-## Confirmed vs. Conspiracy
-
-### Confirmed Facts ✓
-
-**Official Purpose**: Testing and development of classified aircraft and weapons systems
-
-**Confirmed Projects** (declassified):
-- **U-2 Dragon Lady** (1955-1960s) — High-altitude reconnaissance
-- **SR-71 Blackbird** (1960s-1990s) — Advanced reconnaissance, Mach 3+ speeds
-- **F-117 Nighthawk** (1970s-2008) — First operational stealth aircraft
-- **HAVE BLUE** (1970s) — Stealth technology demonstrator
-
-**UFO Connection Explained**: Many 1950s-60s "UFO" sightings were actually classified U-2 and SR-71 test flights. CIA declassified documents confirm this correlation.
-
-### Conspiracy Claims ✗
-
-| Claim | Origin | Evidence Status | Credibility |
-|-------|--------|-----------------|-------------|
-| Alien spacecraft storage | Bob Lazar (1989), Roswell theories | Unverified | Low |
-| Reverse-engineering alien tech | Bob Lazar (1989) | Unverified | Low |
-| Alien bodies storage | Roswell conspiracy theories | Unverified | Low |
-| Alien-human collaboration | Fringe theories | No evidence | Very low |
+### CIA acknowledges Area 51 ⭐
+> **Date**: 2013-06-25  
+> **Location**: Documents released by CIA in response to FOIA request  
+> **Witnesses**: 0 (Documentary release)  
+The CIA released a declassified version of the Pedlow & Welzenbach internal history of the U-2 and OXCART programmes, which named Area 51 / Groom Lake explicitly and provided coordinates. This was the first official U.S. government acknowledgement of the facility's name and location.
+**Credibility**: high
+**Sources**: CIA, Pedlow & Welzenbach declassified history (2013); National Security Archive (Jeffrey T. Richelson)
 
 ---
 
-## Notable Claims & Events
-
-### Bob Lazar Testimony (1989)
-
-> **Claimant**: Bob Lazar, physicist (claimed)
-> **Claim**: Worked at "S-4" facility near Area 51 reverse-engineering alien spacecraft propulsion using "Element 115"
-
-**Credibility Issues**:
-- No verification of claimed educational credentials (MIT, Caltech)
-- No employment records found
-- Some technical claims inconsistent with known physics
-- Element 115 (Moscovium) was synthesized in 2003, but has none of the properties Lazar claimed
-
-**Supporting Factors**:
-- Lazar correctly identified location and some details before publicly known
-- Consistent story over decades
-
-**Consensus**: Highly disputed; skeptics consider it fabrication, some believers find aspects credible.
+### Storm Area 51 / Alienstock
+> **Date**: 2019-09-20  
+> **Location**: Rachel and Hiko, Nevada (festival sites)  
+> **Witnesses**: 1500 (Festival attendees)  
+After a viral Facebook event proposed 'storming' Area 51 to 'see them aliens', festivals were held at Rachel ('Alienstock') and Hiko. Approximately 150 people approached the perimeter; seven minor arrests were reported. No mass entry attempt occurred.
+**Credibility**: high
+**Sources**: BBC News (2019-09-20); Reuters reporting
 
 ---
 
-### Storm Area 51 (2019)
 
-> **Date**: July 20, 2019
-> **Event**: Facebook event "Storm Area 51, They Can't Stop All of Us"
-> **Participants**: 2 million "interested," 1.5 million "going"
+## Evidence
 
-**Outcome**:
-- Event creator Matty Roberts stated it was a joke
-- Transformed into Alienstock festival in Rachel, NV
-- Very small actual attendance near base perimeter
-- No "storming" occurred
-- Military warned of consequences; security increased
+### Photographic
 
-**Significance**: Demonstrated Area 51's massive cultural impact and internet meme culture.
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Soviet KH-9 era and commercial satellite imagery | 1968-onwards | Soviet reconnaissance and later commercial satellite imagery (notably 2000 IKONOS imagery) documents the runway, hangars, and infrastructure at Groom Lake. | verified |
+### Documentary
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Pedlow & Welzenbach CIA U-2 / OXCART History | 2013-06-25 | Declassified internal CIA history that explicitly names Area 51 and Groom Lake and provides operational details of the U-2 and OXCART programmes. | verified |
 
 ---
-
 ## Theories & Explanations
 
-### Confirmed Explanation (CIA)
+### Paranormal / Cryptozoological
 
-**Classified Aircraft Testing**: Area 51 was (and is) used for development and testing of classified military aircraft. The extreme secrecy was necessary during the Cold War. Many "UFO" sightings were misidentifications of U-2 and SR-71 flights.
+**Reverse-engineering of crashed extraterrestrial craft** _(Bob Lazar (1989), Stanton Friedman, Steven Greer)_
 
-**Evidence**: Declassified CIA documents (2013), known aircraft programs, testimony from personnel.
+Hypothesis that captured or crashed alien spacecraft (notably from Roswell, 1947) are stored, studied, and back-engineered at Area 51, particularly at an alleged underground facility designated S-4 near Papoose Lake.
 
-### Conspiracy Theories (Unverified)
+**Underground alien biological research** _(Dan Burisch (2004))_
 
-1. **Alien Spacecraft Storage**: Crashed alien craft from Roswell and other incidents stored and studied
-2. **Reverse Engineering**: U.S. military developing technology from alien spacecraft
-3. **Alien Bodies**: Extraterrestrial biological entities kept at facility
-4. **Alien Collaboration**: Direct cooperation with extraterrestrial beings
+Claims by Dan Burisch and others that genetic and microbiological work involving extraterrestrial entities (including 'J-Rod') is performed at Area 51-adjacent facilities.
 
-**Evidence**: Unverified testimony, speculation, no credible physical evidence
+### Scientific
 
-### Skeptical Position
+**Classified aerospace development** _(Annie Jacobsen, Curtis Peebles, Peter W. Merlin, Gregory W. Pedlow, Donald E. Welzenbach)_
 
-All Area 51 alien claims result from:
-- Misidentification of classified aircraft
-- Government secrecy creating information vacuum
-- Pop culture influence
-- Fabricated testimony (Lazar, etc.)
-- No credible evidence of extraterrestrial connection
+Mainstream historical view: Area 51 is exactly what the declassified CIA record shows — a Cold War black-aircraft test facility used for the U-2, OXCART/SR-71, F-117, B-2 prototypes, and ongoing stealth and unmanned-system development.
 
----
+### Skeptical
 
-## Cultural Impact
+**Misidentified classified aircraft** _(Curtis Peebles, James Oberg, Mick West)_
 
-### Pop Culture Icon
+Many UFO reports near Area 51 are explained as classified test flights of the U-2, A-12, F-117, and other prototypes — particularly given high-altitude reflective fuselages and unusual radar signatures.
 
-Area 51 is one of the most famous "secret" locations in the world, symbolizing government secrecy and UFO conspiracies.
+**Lazar testimony is unsubstantiated** _(Stanton Friedman (initially supportive, later skeptical), Robert Sheaffer, Brian Dunning)_
 
-**Film/TV**:
-- *Independence Day* (1996) — Features Area 51 as alien research facility
-- *The X-Files* (1993-2018) — Numerous references
-- *Indiana Jones and the Kingdom of the Crystal Skull* (2008)
-- *Paul* (2011) — Comedy about alien escape
+Investigations have failed to verify Lazar's stated MIT/Caltech academic credentials, his described physics ('Element 115' stable nuclei) is inconsistent with measured properties of moscovium, and no corroborating testimony has emerged in over three decades.
 
-**Tourism**:
-- Extraterrestrial Highway (Nevada State Route 375)
-- Little A'Le'Inn (Rachel, NV) — Alien-themed restaurant/motel
-- Alien-themed merchandise and tourism industry
 
-**Games**: Numerous video games feature Area 51 scenarios
+## Popular Culture
+
+**Literature**: Area 51: An Uncensored History — Annie Jacobsen (2011); Dark Eagles: A History of Top Secret U.S. Aircraft Programs — Curtis Peebles (1995); Dreamland: Travels Inside the Secret World of Roswell and Area 51 — Phil Patton (1998)
+
+**Film / TV**: Independence Day (1996); The X-Files (1993–2002); Indiana Jones and the Kingdom of the Crystal Skull (2008); Area 51 (2015 found-footage film); Bob Lazar: Area 51 & Flying Saucers (2018, dir. Jeremy Kenyon Lockyer Corbell)
+
+**Games**: Area 51 (1995 arcade light-gun game by Atari); Area 51 (2005 FPS by Midway); Grand Theft Auto V — Fort Zancudo Easter eggs
+
+**Other**: Storm Area 51 / Alienstock (2019); Little A'Le'Inn diner, Rachel, NV; Annual UFO conferences in Las Vegas and Laughlin
 
 ---
+## Research
 
-## Visiting Area 51
+### Researchers
 
-### Can You Visit?
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Gregory W. Pedlow | CIA Office of the Historian | Co-author of the declassified U-2/OXCART history that officially acknowledged Area 51 | 1990s–2013 |
+| Donald E. Welzenbach | CIA Office of the Historian | Co-author of the declassified U-2/OXCART history | 1990s–2013 |
+| Annie Jacobsen | Independent journalist | Standard popular history of the base based on interviews with former personnel | 2007–present |
+| Peter W. Merlin | Aerospace historian | Field documentation and historical research on Groom Lake test programmes | 1980s–present |
+| Jeffrey T. Richelson | National Security Archive | FOIA request that led to the 2013 declassification | 1990s–2017 |
+| George Knapp | KLAS-TV Las Vegas | Reporter who broke the Bob Lazar story; ongoing reporting on UFO/UAP topics | 1989–present |
 
-**No.** Area 51 is an active military installation with restricted access.
+### Organizations
 
-**Viewing Areas**:
-- Tikaboo Peak (26 miles away, requires hike)
-- Nevada State Route 375 ("Extraterrestrial Highway")
-- Rachel, Nevada (nearest town)
+- [National Security Archive](https://nsarchive.gwu.edu) — FOIA-driven documentary record of US national security operations
+- [Federation of American Scientists – Government Secrecy Project](https://fas.org/issues/government-secrecy/) — Analysis of U.S. classification policy and aerospace black programmes
+- [Mutual UFO Network (MUFON)](https://mufon.com) — Civilian UFO/UAP investigation; significant reporting body for Nevada Test and Training Range incidents
 
-**Security**:
-- Armed guards patrol perimeter
-- Sensors detect intrusions
-- Signs warn: "Use of Deadly Force Authorized"
-- Trespassing is a federal crime
-
-⚠️ **Do not attempt to enter Area 51.** Serious legal consequences apply.
-
----
-
-## Current Status
-
-Area 51 remains an active classified facility. While aircraft like the F-117 are now declassified and retired, the base continues testing classified programs. Satellite imagery shows ongoing expansion and new construction.
-
-The U.S. government's official position: Area 51 is a legitimate military testing facility. No evidence supports alien-related claims.
+Active aerospace-history research using satellite imagery and FOIA disclosures. Civilian UFO investigation in the surrounding airspace continues, and the 2020–present U.S. government UAP disclosure process has occasionally referenced Nevada Test and Training Range airspace.
 
 ---
+## Sources
 
-## API Reference
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-Machine-readable data is available in [`api.json`](api.json).
 
-### Data Access
+## How to Report a Sighting
 
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const area51 = await wyrd.getPhenomenon('area-51');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/area-51/main/api.json
-```
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-
-- CIA (2013). *CIA's Role in the Study of UFOs, 1947-90*. Declassified documents.
-- Jacobsen, A. (2011). *Area 51: An Uncensored History of America's Top Secret Military Base*.
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
